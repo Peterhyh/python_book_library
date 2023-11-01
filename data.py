@@ -1,5 +1,5 @@
-book_list = [
-    {'name': 'book1', 'pages': 20},
-    {'name': 'book2', 'pages': 30},
-    {'name': 'book3', 'pages': 40},
+book_data = [
+    {'title': 'book1', 'pages': 20},
+    {'title': 'book2', 'pages': 30},
+    {'title': 'book3', 'pages': 40},
 ]
